@@ -1,13 +1,21 @@
 ---
 templateKey: index-page
+<<<<<<< HEAD
 title: Selamat datang di Gatsby JS Indonesia
 image: /img/home-jumbotron.jpg
 heading: Selamat datang di Gatsby JS Indonesia
 subheading: Gatsby JS adalah alat untuk memudahkan pengembang Aplikasi Web
   dengan sangat mudah
+=======
+title: Pengembangan Aplikasi Web dengan Gatsby JS
+image: /img/home-jumbotron.jpg
+heading: Ada apa di dalam GatsbyJS
+subheading: Dibuat oleh Komunitas Gatsby JS Indonesia
+>>>>>>> add some contents
 mainpitch:
-  title: Mengapa Gatsby
+  title: Mengapa GatsbyJS
   description: >
+<<<<<<< HEAD
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
@@ -16,29 +24,34 @@ description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
   knowledge to anyone.
+=======
+    GatsbyJS dapat digunakan untuk membangun Web Statis yang merupakan Aplikasi Web Progresif (PWA), mengikuti standar Web terbaru, dan dioptimalkan untuk berkinerja tinggi. Hal memanfaatkan teknologi terbaru dan populer termasuk ReactJS, Webpack, GraphQL, JavaScript ES6 + modern dan CSS.
+description: >-
+  GatsbyJS kaya akan banyak feature, kemudahan dalam konfigurasi yang disesuikan dengan kebutuhan pengembang, dan yang paling penting GatsbyJS memiliki komunitas global yang sangat luas.
+>>>>>>> add some contents
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/gatsbyplugin.png
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
-    - image: /img/coffee-gear.png
+    - image: /img/gatsbytutorial.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
         own beans or just bought your first french press, you’ll find a gadget
         to fall in love with in our shop.
-    - image: /img/tutorials.png
+    - image: /img/gatsbystarter.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
         fancy new Chemex but have no clue how to use it? Don't worry, we’re here
         to help. You can schedule a custom 1-on-1 consultation with our baristas
         to learn anything you want to know about coffee roasting and brewing.
         Email us or call the store for details.
-    - image: /img/meeting-space.png
+    - image: /img/gatsbydocs.png
       text: >
         We believe that good coffee has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="300" viewBox="0 0 800 300">
+  <defs>
+    <clipPath id="clip-Gatsby-id">
+      <rect width="800" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Gatsby-id" clip-path="url(#clip-Gatsby-id)">
+    <rect width="800" height="300" fill="rgba(255,255,255,0)"/>
+    <g id="Group_7" data-name="Group 7">
+      <path id="Path_2" data-name="Path 2" d="M145,0C65.25,0,0,65.25,0,145S65.25,290,145,290s145-65.25,145-145S224.75,0,145,0ZM64.217,225.783c-21.75-21.75-33.145-50.75-33.145-78.711L143.967,258.928C114.967,257.895,85.967,247.533,64.217,225.783Zm105.639,30.039L34.178,120.145C45.572,69.395,91.145,31.072,145,31.072a114.215,114.215,0,0,1,92.178,46.605L221.645,91.145C204.027,67.322,176.072,51.777,145,51.777c-40.395,0-74.572,25.895-88.033,62.145L176.072,233.027c30.033-10.355,52.822-36.25,60.072-67.316H186.428V145h72.5C258.928,198.855,220.605,244.428,169.855,255.822Z" transform="translate(7 4)" fill="#639"/>
+      <path id="Path_1" data-name="Path 1" d="M234.89,119.925h-73.1v20.866h50.13c-7.31,31.305-30.289,57.4-60.571,67.827L31.253,88.62C43.783,52.1,79.287,26.009,120.017,26.009c31.33,0,59.523,15.656,77.281,39.657L212.96,52.1A115.2,115.2,0,0,0,120.017,5.143c-54.3,0-100.253,38.61-111.742,89.74L146.126,232.619C196.25,220.1,234.89,174.184,234.89,119.925ZM5.143,120.966c0,29.217,11.489,57.394,33.42,79.307s51.171,33.393,79.364,33.393L5.143,120.96Z" transform="translate(32.011 28.626)" fill="#fff"/>
+    </g>
+    <text id="atsby_" data-name="atsby
+" transform="translate(304 -16)" fill="#639" font-size="137" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="148">atsby</tspan></text>
+    <g id="Group_9" data-name="Group 9" transform="translate(70 882)">
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="419" height="104" rx="35" transform="translate(292 -707)" fill="#639"/>
+      <text id="Indonesia_" data-name="Indonesia
+" transform="translate(308 -718)" fill="#f90000" font-size="84" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="91">Indo</tspan><tspan y="91" fill="#fff">nesia</tspan></text>
+    </g>
+  </g>
+</svg>
